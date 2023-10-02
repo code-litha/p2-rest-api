@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Upin & Ipin",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjE1OWZjN2UtMTRiNi00Y2MyLWJmNjUtN2E4NmE1M2ZmNzM5XkEyXkFqcGdeQXVyNjc5MjE5Nzg@._V1_UY98_CR1,0,67,98_AL_.jpg",
+    "releaseYear": 2007,
+    "rating": 7.5
+  },
+  {
+    "name": "Despicable Me",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "releaseYear": 2010,
+    "rating": 8.3
+  },
+  {
+    "name": "Despicable Me 2",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "releaseYear": 2012,
+    "rating": 7.7
+  },
+  {
+    "name": "Despicable Me 3",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "releaseYear": 2017,
+    "rating": 8.3
+  },
+  {
+    "name": "Minions",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUwNjcxNzAwOF5BMl5BanBnXkFtZTgwNzEzMzIzNDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+    "releaseYear": 2015,
+    "rating": 7.9
+  }
+]
